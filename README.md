@@ -45,6 +45,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rennerfarias/rennerfarias/output/snake.svg" alt="Snake animation" />
-
-###
